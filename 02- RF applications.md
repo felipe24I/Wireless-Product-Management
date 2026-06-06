@@ -5,7 +5,7 @@
 ### Why Operate at higher Frequencies?
 * we have to move to high frequencies because we have lots of applications and we have allocate each frequency band for each one
 * higher frequencie signals has more efficiency in propagation, they are immune to noise and if we want to make a small antenna we need to send high frequency
-* **Note:** antenna's length L is proportional to wavelengths λ, exactly a $frac{λ}{4}$
+* **Note:** antenna's length L is proportional to wavelengths λ, exactly a $\frac{λ}{4}$
 
 <img width="320" height="172" alt="image" src="https://github.com/user-attachments/assets/2cb3b05e-52ea-486b-bec7-afcb4c081b7f" />
 
