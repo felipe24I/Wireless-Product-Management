@@ -21,3 +21,7 @@
 * It is defined as the ratio of signal power to the noise power, often expressed in decibels
 
 <img width="1842" height="356" alt="image" src="https://github.com/user-attachments/assets/fee18140-93c8-49c6-ab73-bcc8e3538f10" />
+
+<img width="1350" height="760" alt="image" src="https://github.com/user-attachments/assets/f62fc638-e7a7-42db-8498-67fa90e2c6bb" />
+
+**Note:** the power of received signal strength is $10\log(1 mw)$, not $10 mv$
