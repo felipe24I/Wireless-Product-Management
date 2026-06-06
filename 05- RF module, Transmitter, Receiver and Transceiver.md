@@ -43,3 +43,17 @@
 * **Tx/Rx switch:** changes the path, depends if you're going to receive or transmitte
 
 <img width="597" height="502" alt="image" src="https://github.com/user-attachments/assets/b4b8d657-bf47-4be6-8c86-05c3307dd03e" />
+
+### GPS: Application of separate transmitter and receiver
+* **Transmitter:** Satellite in the space that send signals to the Earth
+* **Receiver:** GPS tracker devices that receives the signal
+
+<img width="423" height="612" alt="image" src="https://github.com/user-attachments/assets/491aa142-e6f0-404d-8124-4a085cfef85d" />
+
+## Phone: Example of transceiver
+* Phone has a transceiver and it works with one antenna
+* It has both transmitter and receiver blocks in its transceiver
+* Basically you can send infromation an receive information at the same time
+
+<img width="433" height="466" alt="image" src="https://github.com/user-attachments/assets/ba347f2c-859d-4fa9-a7c8-5d912397ebcb" />
+
