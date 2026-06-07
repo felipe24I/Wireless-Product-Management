@@ -33,3 +33,7 @@
 * **0 dBd Baseline:** Represents the performance of a standard dipole antenna. It is identical to 2.15 dBi.
 * **Usage:** dBd is frequently used by manufacturers of land mobile radios, public safety networks, and television broadcast antennas.
 * **Note:** If antenna gain is expressed as **dB**, assume as **dBd**
+
+#### Fractal Antenna
+
+<img width="783" height="460" alt="image" src="https://github.com/user-attachments/assets/1c844aa8-1c48-471b-b99a-809e49594eea" />
