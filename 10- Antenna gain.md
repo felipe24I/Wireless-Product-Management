@@ -28,7 +28,7 @@
 
 * **dBd (decibels relative to a dipole):** is a relative unit that measures the gain of an antenna compared to a standard, real-world half-wave dipole antenna. Unlike dBi, which compares an antenna to a theoretical sphere, dBd uses a physical, standard hardware component as its reference baseline.
 * **The Conversion Formula:** A standard half-wave dipole antenna naturally has a gain of 2.15 dBi. Therefore, converting between the two units is simple:
-* \(\text{Gain\ in\ dBi}= \text{Gain\ in\ dBd}+2.15\)
-* \(\text{Gain\ in\ dBd}= \text{Gain\ in\ dBi}-2.15\)
+* $\(\text{Gain\ in\ dBi}= \text{Gain\ in\ dBd}+2.15\)$
+* $\(\text{Gain\ in\ dBd}= \text{Gain\ in\ dBi}-2.15\)$
 * **0 dBd Baseline:** Represents the performance of a standard dipole antenna. It is identical to 2.15 dBi.
 * **Usage:** dBd is frequently used by manufacturers of land mobile radios, public safety networks, and television broadcast antennas.
