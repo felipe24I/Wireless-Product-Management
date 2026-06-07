@@ -32,3 +32,4 @@
 * $\(\text{Gain\ in\ dBd}= \text{Gain\ in\ dBi}-2.15\)$
 * **0 dBd Baseline:** Represents the performance of a standard dipole antenna. It is identical to 2.15 dBi.
 * **Usage:** dBd is frequently used by manufacturers of land mobile radios, public safety networks, and television broadcast antennas.
+* **Note:** If antenna gain is expressed as **dB**, assume as **dBd**
