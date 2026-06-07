@@ -1,4 +1,5 @@
 ## Decibels as a absolute measurement
+Absolute measurement for signal strengh
 
 <img width="917" height="183" alt="image" src="https://github.com/user-attachments/assets/c0d5e761-1fff-4916-8c68-cc62de0ac6c9" />
 
