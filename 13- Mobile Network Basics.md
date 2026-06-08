@@ -54,3 +54,17 @@ To transmit binary data, each client requires a frequency range. However, the fr
 * **3G:** Introduced faster data transmission and Wideband Code Division Multiple Access (WCDMA), achieving a data rate of up to 2 Mbps. This enabled data transmission for GPS, videos, and higher-quality voice calls.
 * **4G:**  Delivered significantly higher data rates (20 - 100 Mbps), allowing high-definition video streaming and television. This was possible due to Orthogonal Frequency Division Multiple Access (OFDMA) and Multiple-Input Multiple-Output (MIMO) technology.
 * **5G:** : Provides ultra-fast data rates of up to 10 Gbps by utilizing Advanced MIMO and millimeter waves (mmWave), offering the necessary infrastructure for reliable IoT (Internet of Things) communication.
+
+### Extra information
+
+<img width="770" height="472" alt="image" src="https://github.com/user-attachments/assets/27640b55-2801-4e18-a3e1-2d06206ef387" />
+
+<img width="797" height="461" alt="image" src="https://github.com/user-attachments/assets/358acfa2-3aa9-4f8b-b28f-0ccf6c7cea31" />
+
+<img width="727" height="472" alt="image" src="https://github.com/user-attachments/assets/1d1d6277-979f-4e3d-894d-fba499018c14" />
+
+<img width="673" height="472" alt="image" src="https://github.com/user-attachments/assets/002424bb-6597-4cd7-9116-d12306c44cfd" />
+
+<img width="757" height="446" alt="image" src="https://github.com/user-attachments/assets/87937857-0ee1-4f0a-985d-bc51e1569c66" />
+
+<img width="766" height="490" alt="image" src="https://github.com/user-attachments/assets/69247ea5-3188-4910-9d99-caaddbb8c6bf" />
