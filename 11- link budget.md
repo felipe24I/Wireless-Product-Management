@@ -62,3 +62,7 @@ are **absolute units of measurement** in telecommunications that express the **t
 * $\(\text{EIRP\ (dB)}=\text{ERP\ (dB)}+2.15\)$
 * $\(\text{ERP\ (dB)}=\text{EIRP\ (dB)}-2.15\)$
 * **Quick Practical Example:** If a cellular base station is transmitting with an **ERP of 100 Watts (50 dBm)**, its **EIRP is 52.15 dBm** (approximately 164 Watts). The hardware emits the exact same amount of energy; only the reference yardstick changes
+
+#### IEEE devices power transmision
+
+<img width="732" height="473" alt="image" src="https://github.com/user-attachments/assets/711b7e28-aedd-490c-8c28-8f8861d9a454" />
